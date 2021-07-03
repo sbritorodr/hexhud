@@ -8,9 +8,9 @@
 // https://github.com/Hypnootize/hexhud/wiki/Ubercharge
 //================================================================================================
 
-#base "../resource/ui/hudmediccharge_meteroff.res"				//CHARGE METER OFF
+//#base "../resource/ui/hudmediccharge_meteroff.res"				//CHARGE METER OFF
 //#base "../resource/ui/hudmediccharge_meterbottom.res"			//CHARGE METER BOTTOM
-//#base "../resource/ui/hudmediccharge_metermid.res"			//CHARGE METER MIDDLE
+#base "../resource/ui/hudmediccharge_metermid.res"			//CHARGE METER MIDDLE
 
 
 
@@ -28,5 +28,5 @@
 // https://github.com/Hypnootize/hexhud/wiki/Ubercharge
 //================================================================================================
 
-#base "../resource/ui/hudmediccharge_resistright.res"			//RIGHT SIDE
-//#base "../resource/ui/hudmediccharge_resistcenter.res"		//CENTERED
+//#base "../resource/ui/hudmediccharge_resistright.res"			//RIGHT SIDE
+#base "../resource/ui/hudmediccharge_resistcenter.res"		//CENTERED
