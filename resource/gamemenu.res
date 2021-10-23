@@ -35,7 +35,7 @@
 
 
 
-
+	
 	"Streams"
 	{
 		"label"										"0"
@@ -65,6 +65,18 @@
 		"label"										"V"
 		"command"									"OpenAchievementsDialog"
 		"tooltip"									"Achievements"
+	}
+	"Workshop"
+	{
+		"label"										"{"
+		"command"									"engine OpenSteamWorkshopDialog"
+		"tooltip"									"Workshop"
+	}
+	"Replays"
+	{
+		"label"										"^"
+		"command"									"engine replay_reloadbrowser"
+		"tooltip"									"Replays"
 	}
 	"Console"
 	{
@@ -100,18 +112,25 @@
 		"tooltip"									"Toggle Minmode"
 		"OnlyInGame"								"1"
 	}
-		"Workshop"
-		{
-			"label"										"p"
-			"command"									"engine OpenSteamWorkshopDialog"
-			"tooltip"									"Steam Workshop"
-		}
+
 
 	"ToolsOpenButton"
 	{
 		"label"										"Tools"
 		"command"									"motd_show"
 		"tooltip"									""
+		"OnlyInGame"								"1"
+	}
+
+
+	"MainMenuBG"
+	{
+		"command"									"Engine"
+		"OnlyAtMenu"								"1"
+	}
+	"PauseMenuBG"
+	{
+		"command"									"Engine"
 		"OnlyInGame"								"1"
 	}
 }

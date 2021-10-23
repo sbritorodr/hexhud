@@ -8,7 +8,7 @@ Scheme
 
 		"Crosshair"											"230 235 240 255"
 		"Crosshair Pulse"									"255 0 0 255"
-		"Crosshair Shadow"									"0 0 0 175"
+		"Crosshair Shadow"									"0 0 0 255"
 		"HitMarker"											"255 0 0 255"
 
 		
@@ -51,7 +51,7 @@ Scheme
 
 
 		"Red"												"250 100 100 255"
-		"RedDark"											"210 70 70 255"
+		"RedDark"											"200 60 60 255"
 		"RedDarker"											"180 45 45 255"
 
 		"Blue"												"140 180 210 255"
