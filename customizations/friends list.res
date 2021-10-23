@@ -9,6 +9,6 @@
 //=========================================================================================
 
 
-#base "../resource/ui/mainmenu_friendlist_small.res"			// SHORT
-//#base "../resource/ui/mainmenu_friendlist_extended.res"		// EXTENDED
+//#base "../resource/ui/mainmenu_friendlist_small.res"			// SHORT
+#base "../resource/ui/mainmenu_friendlist_extended.res"		// EXTENDED
 //#base "../resource/ui/scoreboard_disabled.res"				// DISABLED
